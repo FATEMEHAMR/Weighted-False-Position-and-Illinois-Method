@@ -13,7 +13,6 @@ Root-finding is an important topic in numerical analysis. Many nonlinear equatio
 
 The classical False Position method works on an interval `[a, b]` where:
 
-```text
 f(a) * f(b) < 0
 
 This means the function changes sign in the interval, so a root exists between a and b.
